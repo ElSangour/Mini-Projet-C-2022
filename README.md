@@ -20,7 +20,7 @@ Before you run the executable program, please take a moment to read our notes ca
 3.Run the executable.
   ./stock_manager
 
-Notes
+##Notes
 
     This project showcases our proficiency in C programming, dynamic memory allocation, and file handling.
     We welcome any feedback or suggestions for improvement.
