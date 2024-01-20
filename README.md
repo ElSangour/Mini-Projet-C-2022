@@ -11,7 +11,6 @@ Our project is a stock management system implemented in C, leveraging dynamic al
 Before you run the executable program, please take a moment to read our notes carefully. We've included important information and insights to ensure a smooth understanding of the application.
 
 ## How to Use
-
 1. Clone the repository to your local machine.
    #bash
    git clone https://github.com/your-username/Mini-Project-C-2022.git.
