@@ -19,13 +19,11 @@ Before you run the executable program, please take a moment to read our notes ca
   gcc -o stock_manager stock_manager.c
 3.Run the executable.
   ./stock_manager
-
-##Notes
-
+## Notes
     This project showcases our proficiency in C programming, dynamic memory allocation, and file handling.
     We welcome any feedback or suggestions for improvement.
 
 Feel free to reach out if you have any questions or if you'd like to contribute to this project.
 
 Cordially,
-Ahmed Malek Tlili, Mohamed Ali Hentati, Mahdi Barhoumi
+Ahmed Malek Tlili, Mohamed Ali Hentati, Mahdi Barhoumi.
