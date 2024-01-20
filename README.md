@@ -14,9 +14,13 @@ Before you run the executable program, please take a moment to read our notes ca
 
 1. Clone the repository to your local machine.
    #bash
-   git clone https://github.com/your-username/Mini-Project-C-2022.git
+   git clone https://github.com/your-username/Mini-Project-C-2022.git.
+
+
 2.Compile the C program.
   gcc -o stock_manager stock_manager.c
+
+
 3.Run the executable.
   ./stock_manager
 ## Notes
